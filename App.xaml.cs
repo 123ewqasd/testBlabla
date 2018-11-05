@@ -13,5 +13,6 @@ namespace testProject
     /// </summary>
     public partial class App : Application
     {
+    {
     }
 }
