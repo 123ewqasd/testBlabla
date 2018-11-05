@@ -1,0 +1,5 @@
+C:\Users\ishai\source\repos\testProject\testProject\obj\Debug\testProject.csprojAssemblyReference.cache
+C:\Users\ishai\source\repos\testProject\testProject\obj\Debug\MainWindow.g.cs
+C:\Users\ishai\source\repos\testProject\testProject\obj\Debug\App.g.cs
+C:\Users\ishai\source\repos\testProject\testProject\obj\Debug\testProject_MarkupCompile.cache
+C:\Users\ishai\source\repos\testProject\testProject\obj\Debug\testProject_MarkupCompile.lref
