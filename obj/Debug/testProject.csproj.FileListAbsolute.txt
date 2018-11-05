@@ -1,0 +1,15 @@
+C:\Users\ishai\source\repos\testProject\testProject\obj\Debug\testProject.csprojAssemblyReference.cache
+C:\Users\ishai\source\repos\testProject\testProject\obj\Debug\MainWindow.g.cs
+C:\Users\ishai\source\repos\testProject\testProject\obj\Debug\App.g.cs
+C:\Users\ishai\source\repos\testProject\testProject\obj\Debug\testProject_MarkupCompile.cache
+C:\Users\ishai\source\repos\testProject\testProject\obj\Debug\testProject_MarkupCompile.lref
+C:\Users\ishai\source\repos\testProject\testProject\bin\Debug\testProject.exe.config
+C:\Users\ishai\source\repos\testProject\testProject\bin\Debug\testProject.exe
+C:\Users\ishai\source\repos\testProject\testProject\bin\Debug\testProject.pdb
+C:\Users\ishai\source\repos\testProject\testProject\obj\Debug\MainWindow.baml
+C:\Users\ishai\source\repos\testProject\testProject\obj\Debug\testProject.g.resources
+C:\Users\ishai\source\repos\testProject\testProject\obj\Debug\testProject.Properties.Resources.resources
+C:\Users\ishai\source\repos\testProject\testProject\obj\Debug\testProject.csproj.GenerateResource.cache
+C:\Users\ishai\source\repos\testProject\testProject\obj\Debug\testProject.csproj.CoreCompileInputs.cache
+C:\Users\ishai\source\repos\testProject\testProject\obj\Debug\testProject.exe
+C:\Users\ishai\source\repos\testProject\testProject\obj\Debug\testProject.pdb
