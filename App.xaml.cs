@@ -14,5 +14,6 @@ namespace testProject
     public partial class App : Application
     {
     {
+    ghgh
     }
 }
